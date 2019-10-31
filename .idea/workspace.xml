@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d264e748-dbad-4cee-a3f8-1e751393dc3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
@@ -196,8 +193,8 @@
         <option value="$PROJECT_DIR$/src/components/App/App.tsx" />
         <option value="$PROJECT_DIR$/src/components/ContactCard/ContactCard.scss" />
         <option value="$PROJECT_DIR$/src/components/ContactCard/ContactCard.tsx" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -334,7 +331,7 @@
       <workItem from="1572502067577" duration="601000" />
       <workItem from="1572505734608" duration="4000" />
       <workItem from="1572507394683" duration="7166000" />
-      <workItem from="1572514989736" duration="10259000" />
+      <workItem from="1572514989736" duration="10418000" />
     </task>
     <task id="LOCAL-00001" summary="add many things">
       <created>1572525999333</created>
@@ -343,17 +340,23 @@
       <option name="project" value="LOCAL" />
       <updated>1572525999334</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add server things">
+      <created>1572527190228</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572527190228</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58749000" />
+    <option name="totallyTimeSpent" value="58908000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4911147" visible="true" weight="0.27573332" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4911147" visible="true" weight="0.27573332" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" sideWeight="0.5088853" side_tool="true" visible="true" weight="0.27573332" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -368,7 +371,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="TypeScript" order="9" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -397,7 +400,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add many things" />
-    <option name="LAST_COMMIT_MESSAGE" value="add many things" />
+    <MESSAGE value="add server things" />
+    <option name="LAST_COMMIT_MESSAGE" value="add server things" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/components/ContactDetails/ContactDetails.test.tsx">
