@@ -1,6 +1,6 @@
 import React from 'react';
 import Typography from '@material-ui/core/Typography';
-import {IPeople, IHeadPeopleCell} from "../../interfaces";
+import {IPeople} from "../../interfaces";
 import Card from '@material-ui/core/Card';
 import CardActionArea from '@material-ui/core/CardActionArea';
 import CardActions from '@material-ui/core/CardActions';
@@ -11,7 +11,6 @@ import { withStyles } from '@material-ui/styles';
 import { usersApi } from '../../api/general';
 import LinearProgress from '@material-ui/core/LinearProgress';
 import './ContactCard.scss'
-import {match} from "react-router";
 
 
 const styles = (theme: any) => ({
