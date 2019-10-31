@@ -1,16 +1,24 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Forstly, as usual for front-end projects u're need to run 
+### npm install 
+
+that command install all required packages into node_modules directory.
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+### ` react-scriprts start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
+
+To run application with server environment on port [http://localhost:80] run:
+### `npm start`
+
 
 ### `npm test`
 
